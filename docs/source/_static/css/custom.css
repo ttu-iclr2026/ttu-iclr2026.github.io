@@ -1,0 +1,16 @@
+.people {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+
+}
+
+.people > div {
+    text-align: center;
+    margin: 5px;
+}
+
+.people > div > img {
+    max-width: 150px;
+    width: 100%;
+}
+
