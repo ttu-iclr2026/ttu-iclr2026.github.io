@@ -22,14 +22,16 @@ Call for Papers
 
 **Topics** We will welcome and highlight content on test-time and post-training updates:
 
-- opportunities and challenges for test-time updates for specific applications or deployments;
-- unsupervised or self-supervised losses for optimization during testing;
-- parameterizations of updates to inputs, models, or outputs at any scale and for white-box and black-box systems (including updates to open or closed foundation model systems);
-- coping with test-time input shifts (domain adaptation), test-time attacks (adversarial defense), or test-time task changes (online continual learning);
-- metrics/datasets/benchmarks to validate and evaluate test-time updates by the changes in performance measures and the computation required;
-- adapting large-scale/foundation models (LLMs, VLMs, etc.) to specialized or personalized domains whether by in-context learning / adaptation / continual learning / editing.
+- **Foundations & Objectives**: Unsupervised/self-supervised losses at test time; implicit/explicit regularization; stability–plasticity trade-offs; theory of adaptation and generalization under shift.
+- **Parameterizations & Interfaces**: Input-space updates (learnable augmentations, prompts), feature-space adapters (BN/affine, LoRA adapters), head-level edits, retrieval-augmented updates, black-box query strategies for closed foundation models.
+- **Shift, Attacks, & Tasks**: Coping with domain and style shift, distribution drift, adversarial perturbations, label shift, online continual learning and task switches, model availability attacks.
+- **Adaptation of Foundational Models (FM)**: Adapting LLMs/VLMs and domain FMs to specialized/personalized settings via in-context learning, adapters/LoRA, TTU-RL, and model editing and unlearning.
+- **Safety, Reliability, & Alignment**: Uncertainty, conformal prediction at test time, fallback/abstention, guardrails and risk monitors, privacy-preserving updates, auditability, and roll-back.
+- **Dynamic Architectures**: Recurrent depth models, looped transformers, dynamically allocating compute (early-exit networks, mixture-of-depth), and iterative test-time optimization (deep equilibrium networks, implicit computation).
+- **Metrics, Datasets, & Benchmarks**: End-to-end metrics that couple utility (accuracy, calibration) with costs (compute, memory, wall-clock, energy); realistic streams and recurrences; reproducible TTU pipelines.
+- **Cost-Aware & Green TTU**: Methods and evaluations under compute/energy budgets, latency/throughput targets, edge constraints, carbon accounting, and cost–quality frontiers; any improvement must justify its operational footprint.
 
-**Keywords** Adaptation, Continual Learning, Robustness, Personalization
+**Keywords** Adaptation, Continual Learning, Robustness, Personalization, Model Editing, Foundation Models, Reliability, Green AI.
 
 **Format**
 We will welcome the submission of short papers (= 4 pages content, not including the references, as well as an (optional) appendix with an unlimited number of pages).
