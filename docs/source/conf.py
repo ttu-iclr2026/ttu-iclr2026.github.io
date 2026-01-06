@@ -46,9 +46,9 @@ def get_years(start_year=2021):
 
 # -- Project information -----------------------------------------------------
 
-project = "2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT)"
-author = "The organizing team"
-copyright = f"{get_years(2024)}, {author}"
+project = "3rd Workshop on Test-Time Updates (TTU)"
+author = "TTU Organizers"
+copyright = f"{get_years(2026)}, {author}"
 
 # -- General configuration ---------------------------------------------------
 
@@ -94,7 +94,7 @@ html_theme = "pydata_sphinx_theme"
 # https://pydata-sphinx-theme.readthedocs.io/en/latest/user_guide/configuring.html
 html_theme_options = {
     "logo": {
-        "text": "PUT 2025",
+        "text": "TTU 2026",
        #  "image_light": "logo.png",
         # "image_dark": "_static/logo-dark.png",
     },
