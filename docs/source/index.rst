@@ -7,7 +7,7 @@
 
 Our third workshop on test-time updates will be held at ICLR 2026 in Rio de Janeiro!
 
-🚧 **The workshop site is still under construction. Check back for updates on Dec. 23 2025 and in the new year!** 🚧
+.. 🚧 **The workshop site is still under construction. Check back for updates on Dec. 23 2025 and in the new year!** 🚧
 
 **When and Where.** The workshop will be held on Apr. 26 or 27, to be determined by ICLR 2026, in Rio de Janeiro.
 
@@ -48,7 +48,14 @@ Invited Speakers
 Paper Submission
 -----------------------
 
-🚧 **Stay tuned for the paper submission system on OpenReview and further guidance about the tiny papers track. Check back for updates on Dec. 23 2025 and in the new year!** 🚧
+.. 🚧 **Stay tuned for the paper submission system on OpenReview and further guidance about the tiny papers track. Check back for updates on Dec. 23 2025 and in the new year!** 🚧
+
+Please see the system on OpenReview:
+
+Main track: https://openreview.net/group?id=ICLR.cc/2026/Workshop/TTU_Main_Track
+
+Tiny paper track: https://openreview.net/group?id=ICLR.cc/2026/Workshop/TTU_Tiny_Track
+
 
 - Submission deadline: Feb. 6th 2026
 - Decisions to authors: Mar. 1st, 2026
@@ -57,7 +64,7 @@ Paper Submission
 Call for Reviewers
 ------------------
 
-**Stay tuned for the signup form by EOY 2025!**
+**Stay tuned for the signup form. Coming soon!**
 
 We are looking for qualified reviewers to help us select papers for the workshop.
 All reviewers will be credited for their academic service on the workshop site.
