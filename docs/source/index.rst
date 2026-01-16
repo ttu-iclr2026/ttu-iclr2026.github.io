@@ -64,11 +64,13 @@ Tiny paper track: https://openreview.net/group?id=ICLR.cc/2026/Workshop/TTU_Tiny
 Call for Reviewers
 ------------------
 
-**Stay tuned for the signup form. Coming soon!**
+.. **Stay tuned for the signup form. Coming soon!**
 
 We are looking for qualified reviewers to help us select papers for the workshop.
 All reviewers will be credited for their academic service on the workshop site.
-If you have published on test-time updates, continual learning, model editing, and the other topics of our call then please volunteer.
+If you have published on test-time updates, continual learning, model editing, and the other topics of our call then please volunteer by filling out `this form`_!
+
+.. _this form: https://docs.google.com/forms/d/e/1FAIpQLSccofImZiz18gdrscS_6v1VLCVVAIEHky2N4RRXNed2FB6vrQ/viewform?usp=header
 
 Organizers
 ----------
@@ -82,12 +84,12 @@ Contact
 Please reach the workshop organizers at ``ttu-iclr2026@googlegroups.com``.
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
+    :maxdepth: 2
+    :hidden:
 
-   Home <self>
-   Schedule <schedule>
-   Papers <papers>
+    Schedule <schedule>
+    Papers <papers>
+    Past Editions <past_editions>
 
 .. meta::
       :title: 3rd Workshop on Test-Time Updates (TTU): Putting Updates to the Test!
