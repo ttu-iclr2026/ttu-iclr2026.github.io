@@ -5,9 +5,9 @@
   :width: 200
   :align: right
 
-Our third workshop on test-time updates will be held at ICLR 2026 in Rio de Janeiro!
+Our third workshop on test-time updates will be held at ICLR 2026!
 
-**When and Where.** The workshop will be held on Apr. 26 or 27, to be determined by ICLR 2026, in Rio de Janeiro.
+**When and Where.** The workshop will be held on Apr. 27 in Rio de Janeiro.
 
 **Scope.** Note the scope encompasses test-time updates broadly.
 This includes test-time adaptation, test-time training, post-training updates, and model editing.
@@ -43,7 +43,7 @@ Invited Speakers
 .. raw:: html
     :file: speakers.html
 
-Paper Submission
+Paper Submission (Done)
 -----------------------
 
 Please see the system on OpenReview:
@@ -58,14 +58,11 @@ Please use the ICLR 2026 paper kit for preparing your submission: https://github
 - Decisions to authors: Mar. 1st, 2026
 - Camera ready: TBD
 
-Call for Reviewers
-------------------
+Call for Reviewers (Done)
+-------------------------
 
-We are looking for qualified reviewers to help us select papers for the workshop.
-All reviewers will be credited for their academic service on the workshop site.
-If you have published on test-time updates, continual learning, model editing, and the other topics of our call then please volunteer by filling out `this form`_!
-
-.. _this form: https://docs.google.com/forms/d/e/1FAIpQLSccofImZiz18gdrscS_6v1VLCVVAIEHky2N4RRXNed2FB6vrQ/viewform?usp=header
+We are thankful for all of our volunteer reviewers for completing their assignments! 
+All reviewers will be credited here for their academic service once the paper process is complete.
 
 Organizers
 ----------
