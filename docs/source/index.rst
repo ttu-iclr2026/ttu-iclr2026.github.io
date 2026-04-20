@@ -7,7 +7,7 @@
 
 Our third workshop on test-time updates will be held at ICLR 2026!
 
-**When and Where.** The workshop will be held on Apr. 27 in Rio de Janeiro.
+**When and Where.** The workshop will be held on Apr. 27 in Room 206 of the conference in Rio de Janeiro.
 
 **Scope.** Note the scope encompasses test-time updates broadly.
 This includes test-time adaptation, test-time training, post-training updates, and model editing.
@@ -61,7 +61,7 @@ Please use the ICLR 2026 paper kit for preparing your submission: https://github
 Call for Reviewers (Done)
 -------------------------
 
-We are thankful for all of our volunteer reviewers for completing their assignments! 
+We are thankful for all of our volunteer reviewers for completing their assignments!
 All reviewers will be credited here for their academic service once the paper process is complete.
 
 Organizers

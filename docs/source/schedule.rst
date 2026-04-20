@@ -2,9 +2,11 @@ Workshop Schedule
 =================
 
 
-**When and Where.** The workshop will be held on Apr. 26 or 27, to be determined by ICLR 2026, in Rio de Janeiro.
+**When and Where.** The workshop will be held on Apr. 27, in Room 206, in Rio de Janeiro.
 
-The full schedule will be announced closer to the date.
+The schedule and live stream are available to registered attendees at https://iclr.cc/virtual/2026/workshop/10000776
+
+The schedule will also be shared here closer to the date.
 
 Schedule
 --------
