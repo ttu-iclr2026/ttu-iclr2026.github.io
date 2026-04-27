@@ -34,7 +34,7 @@ Call for Papers
 **Format**
 We will welcome the submission of short papers (= 4 pages content, not including the references, as well as an (optional) appendix with an unlimited number of pages).
 We will also welcome the submission of tiny papers (= 2 pages content, not including the references, without an appendix).
-Accepted submissions will be selected for poster, lightning talk (= 1 slide in 1 minute), and oral presentation at the workshop.
+Accepted submissions will be selected for poster and oral presentation at the workshop.
 The workshop will not include proceedings.
 
 Invited Speakers
